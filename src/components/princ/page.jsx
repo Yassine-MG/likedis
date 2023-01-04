@@ -1,7 +1,7 @@
-import React, {useState } from "react";
+import React from "react";
 import "./page.css";
-import img from "../../img/pexels-frans-van-heerden-624015.jpg";
-import useLocalStorage from 'use-local-storage';
+import img from "../../img/26465583.jfif";
+// import App from "../mode/mode";
 class Page extends React.Component{
     constructor(prop){
         super(prop);
@@ -27,9 +27,7 @@ class Page extends React.Component{
     render(){
             const {like} = this.state;
             const {number} = this.state;
-            
-        return <section>
-                <i class="fa-solid fa-sun"></i>
+        return <section> 
                 <div className="container">  
                     <div className="img-container">
                         <img onClick={this.handleClick} src={img} alt="" />
