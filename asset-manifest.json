@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/likedis/static/css/main.2a625f5e.css",
+    "main.js": "/likedis/static/js/main.3a425d7b.js",
+    "static/media/pexels-frans-van-heerden-624015.jpg": "/likedis/static/media/pexels-frans-van-heerden-624015.606eb394515e5ee63df1.jpg",
+    "index.html": "/likedis/index.html",
+    "main.2a625f5e.css.map": "/likedis/static/css/main.2a625f5e.css.map",
+    "main.3a425d7b.js.map": "/likedis/static/js/main.3a425d7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a625f5e.css",
+    "static/js/main.3a425d7b.js"
+  ]
+}
